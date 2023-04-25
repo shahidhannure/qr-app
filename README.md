@@ -6,5 +6,5 @@ this app uses google open source api for creating Qr code
 
 you can directly pull the docker image from below command
 
-docker pull shahidhannure/qr-app:v1.0
+docker run -d -p 80:80 shahidhannure/qr-app:v1.0
 
